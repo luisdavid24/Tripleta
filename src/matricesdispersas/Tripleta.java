@@ -34,5 +34,6 @@ public class Tripleta{
     //Crear tripleta es pasar los datos de la matriz a una lista de tripletas
     public void crearTrip(Object mat[][]){
         
+        System.out.println("Etnro");
     }
 }

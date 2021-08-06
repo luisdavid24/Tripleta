@@ -17,5 +17,6 @@ public class MatricesDispersas {
         
         Tripleta Trip1 = new Tripleta(matriz1.getnFil(), matriz1.getnCol(), matriz1.getDato());
         Trip1.crearTrip(matriz1.getMat());
+        
     }
 }
